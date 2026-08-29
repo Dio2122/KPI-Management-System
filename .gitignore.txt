@@ -1,0 +1,20 @@
+# Database & Environment Configuration
+db.php
+config.php
+.env
+
+# Generated Exports & Documents
+*.csv
+*.xlsx
+*.pdf
+
+# Local Web Server & Dependencies
+vendor/
+node_modules/
+.idea/
+.vscode/
+nbproject/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
